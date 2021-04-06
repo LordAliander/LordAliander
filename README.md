@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LordAliander
+- 👀 I’m interested in coding, engineering and creating stuff. 
+- 🌱 I’m currently learning C++, Python, Java, html. 
+- 💞️ I’m looking to collaborate on projects with Arduino involved and engineering 'problems'. 
+- 📫 How to reach me agiuliani899@gmail.com
